@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "labtel",
+    "packageName": "es.urjc.etsii.labtel",
+    "packageFolder": "es/urjc/etsii/labtel",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NGQ2MDQwMjNhN2M5OGI1ZWJmNDQ1OTg4ZGJjODIxZGJmOTE2MzZjZWZiMDc3YTY5OTJiM2UyOTZmYjQwZjhkZDU1NDk4YjAyZGMzODczZTc2NTQwYjVmZWY4Y2NmNjY3NDIzMmE4NDliMjE3MTg2YzE0MGE4OGI5NjQyZjQ0Njc="
+  },
+  "git-provider": "GitHub",
+  "git-company": "VSeryi",
+  "repository-name": "labtel"
+}
